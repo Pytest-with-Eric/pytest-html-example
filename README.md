@@ -15,7 +15,7 @@ To install the project, you need to have Poetry installed. If you don't have it 
 To run the tests, you can use the following command:
 
 ```bash
-poetry run pytest --html=report.html
+$ poetry run pytest --html=report.html
 ```
 
 or
